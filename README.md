@@ -1,6 +1,6 @@
 # Social_Media
 
-frontend : React
+frontend : React /n
 backend : Node + Express
 database : MongoDB
 
